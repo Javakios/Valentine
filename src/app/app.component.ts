@@ -18,7 +18,7 @@ export class AppComponent implements AfterViewInit {
   showInput: boolean = false;
   inputError: string = '';
 
-  inputPass: boolean = true;
+  inputPass: boolean = false;
   showSecondButtons = false;
 
   showImage:boolean =false;
