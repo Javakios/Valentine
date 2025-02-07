@@ -1,1 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    cursor: url('/Valetine/assets/heart-cursor.png') 16 16, auto;
+  }
